@@ -1,5 +1,3 @@
-PATH=$PATH:~/Code/scripts
-
 # Path to your oh-my-zsh installation.
 export ZSH=""
 
