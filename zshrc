@@ -1,7 +1,7 @@
 PATH=$PATH:~/Code/scripts
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/gabrielursu/.oh-my-zsh"
+export ZSH=""
 
 # USER THEME:
 ZSH_THEME="fox"
@@ -20,8 +20,6 @@ export DEFAULT_USER="$USER"
 
 # USER ALIASES:
 alias cts="tsc --noEmit"
-alias arinto="cd ~/Code/TS_Projects/Arinto/aos"
-alias movemf="cd ~/Code/Personal_Projects/movemf"
 alias CPUTemp="sudo powermetrics --samplers smc |grep -i \"CPU die temperature\""
 
 # NPM ALIASES:
