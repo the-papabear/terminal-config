@@ -1,3 +1,6 @@
+# THE CONTENTS OF THIS FILE SHOULD RESIDE IN ~/.oh-my-zsh/themes/my-theme.zsh-theme
+# TO APPLY THE THEME, ADD/REPLACE ZSH_THEME="my-theme" TO YOUR ~/.zshrc
+
 local return_code="%(?..%{$fg[red]%}%? ↵%{$reset_color%})"
 local user_host=" %B%(!.%{$fg[red]%}.%{$fg[green]%})%n:"
 local user_symbol='%(!.#.>)'
